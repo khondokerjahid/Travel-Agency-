@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Check The Process
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+## Creating NPM environment 
+1. Create a folder And Open the blank folder any code editor (vs code is preferred)
+2. Open Terminal  And Type "npx create-reacr-app travel-app"
+    (it will take time )
+3. 
 
 In the project directory, you can run:
 
